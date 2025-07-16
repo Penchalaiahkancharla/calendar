@@ -1,0 +1,1 @@
+A simple Tkinter-based desktop GUI application to display a full year calendar. This application uses Python's built-in calendar module and allows users to input any year and view the full calendar for that year in a new window.
